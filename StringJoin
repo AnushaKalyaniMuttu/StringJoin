@@ -1,0 +1,3 @@
+String gfg1 = String.join(" < ", "Four", "Five", "Six", "Seven");
+  
+        System.out.println(gfg1
